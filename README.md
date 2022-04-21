@@ -1,2 +1,3 @@
 # EasyCoroutinePool
 A easy coroutine pool implements by c++
+目前只是最简单的实现，todo....
