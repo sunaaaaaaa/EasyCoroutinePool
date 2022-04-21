@@ -1,0 +1,4 @@
+/home/lighthouse/cppSpace/myCoroutinePool/CMakeFiles/rebuild_cache.dir
+/home/lighthouse/cppSpace/myCoroutinePool/CMakeFiles/edit_cache.dir
+/home/lighthouse/cppSpace/myCoroutinePool/CMakeFiles/mypool.dir
+/home/lighthouse/cppSpace/myCoroutinePool/CMakeFiles/test.dir
